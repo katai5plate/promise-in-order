@@ -1,5 +1,5 @@
 {
-  "name": "promise-step",
+  "name": "promise-in-order",
   "version": "0.0.1",
   "description": "Execute Promise sequentially.",
   "main": "dist/index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katai5plate/promise-step.git"
+    "url": "git+https://github.com/katai5plate/promise-in-order.git"
   },
   "keywords": [],
   "author": "katai5plate",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/katai5plate/promise-step/issues"
+    "url": "https://github.com/katai5plate/promise-in-order/issues"
   },
-  "homepage": "https://github.com/katai5plate/promise-step#readme",
+  "homepage": "https://github.com/katai5plate/promise-in-order#readme",
   "devDependencies": {
     "typescript": "^3.8.3"
   }
