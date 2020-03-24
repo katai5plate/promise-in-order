@@ -1,2 +1,2 @@
-declare const _default: <T extends unknown>(list: T[], cb: (elm: T, index: number, list: T[]) => Promise<unknown>, ms: number) => Promise<unknown[]>;
+declare const _default: <R = any, T = any>(list: T[], cb: (elm: T, index: number, list: T[]) => Promise<any>, ms: number) => Promise<R[]>;
 export default _default;

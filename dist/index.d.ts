@@ -1,4 +1,4 @@
 declare const _default: {
-    step: <T extends unknown>(list: T[], cb: (elm: T, index: number, list: T[]) => Promise<unknown>, ms: number) => Promise<unknown[]>;
+    step: <R = any, T = any>(list: T[], cb: (elm: T, index: number, list: T[]) => Promise<any>, ms: number) => Promise<R[]>;
 };
 export = _default;
