@@ -11,8 +11,8 @@
     "url": "git+https://github.com/katai5plate/promise-step.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "katai5plate",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/katai5plate/promise-step/issues"
   },
