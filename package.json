@@ -1,0 +1,23 @@
+{
+  "name": "promise-step",
+  "version": "0.0.1",
+  "description": "Execute Promise sequentially.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katai5plate/promise-step.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katai5plate/promise-step/issues"
+  },
+  "homepage": "https://github.com/katai5plate/promise-step#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
